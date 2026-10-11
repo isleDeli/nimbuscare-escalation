@@ -1,0 +1,14 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-HELDOUT-0014
+Date: October 9, 2026
+Customer: Morgan Demo
+Account Number: NMB-1488326
+Plan: Nimbus Duo Saver (2 lines) — $96.00/month recurring charge
+Agent: (automated)
+
+[18:05] Customer (Morgan Demo): Hi there, our house was a dead zone for most of a week and I'd like that reflected on my bill. Account NMB-1488326, the card on file ends 7290.
+
+[18:08] Customer (Morgan Demo): There was no service from September 26th at 6 AM until October 1st at 6 PM. I'm contesting the $96.00 monthly plan charge on the bill dated October 2nd.
+
+[18:12] Customer (Morgan Demo): Does that credit also give me back the $35.00 one-time device charge and the $10.00 late fee that are on the same bill?

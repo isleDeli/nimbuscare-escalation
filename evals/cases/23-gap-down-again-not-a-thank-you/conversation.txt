@@ -1,0 +1,14 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-GAP-0023
+Date: October 6, 2026
+Customer: Vesper Trial
+Account Number: NMB-2375916
+Plan: Nimbus Solo Unlimited (1 line) — $90.00/month recurring charge
+Agent: (automated)
+
+[08:20] Customer (Vesper Trial): Hi, I need to dispute a charge after an outage. Account is NMB-2375916, and the card ending is 1056.
+
+[08:23] Customer (Vesper Trial): Service went down on September 21st at 7 AM and wasn't back until September 26th at 7 AM. I'm disputing the $90.00 recurring charge on the invoice dated October 1st.
+
+[08:26] Customer (Vesper Trial): It's dead again today.

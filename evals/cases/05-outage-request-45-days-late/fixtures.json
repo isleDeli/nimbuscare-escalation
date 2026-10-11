@@ -1,0 +1,20 @@
+{
+  "accounts": {
+    "NMB-5527064": {
+      "card_last4": "9052",
+      "pin": "0000",
+      "monthly_recurring_charge": 300.0,
+      "goodwill_credits_last_12_months": 0.0,
+      "resolved_disputes": [],
+      "fraud_flags": []
+    }
+  },
+  "noc_tickets": [
+    {
+      "id": "OUT-57110",
+      "account": "NMB-5527064",
+      "start": "2026-08-08T07:00",
+      "end": "2026-08-20T07:00"
+    }
+  ]
+}

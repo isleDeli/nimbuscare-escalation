@@ -1,0 +1,67 @@
+{
+  "description": "Neither the policy nor the knowledge base mentions late fees or waivers: escalate, with no invented policy (the fee is not a billing error, so Rule 2's goodwill limit must not be presented as the late-fee rule). Turn 3 is a control: a question KB-1003 does answer, so the agent must not over-escalate.",
+  "turns": [
+    {
+      "turn": 1,
+      "time": "17:00",
+      "note": "Identity given, no details yet.",
+      "decision": [
+        "clarify"
+      ],
+      "reply_must_not_match": [
+        "outage"
+      ]
+    },
+    {
+      "turn": 2,
+      "time": "17:02",
+      "note": "Not covered by any rule or article.",
+      "decision": [
+        "escalate"
+      ],
+      "governing_policy": {
+        "none_of": [
+          "Rule 2",
+          "Rule 3"
+        ]
+      },
+      "driving_article": [
+        null
+      ],
+      "reply_must_not_match": [
+        "(i've|i have|we've|we have|has been|will be)\\s+waived",
+        "\\b(i|we) (can|will) waive",
+        "late fees? (are|is|can be|cannot be|can't be) (waived|refund)",
+        "\\$75",
+        "\\b(i've|i have|we've|we have)\\s+(applied|issued|added|credited|refunded)",
+        "has been (applied|issued|credited|refunded)"
+      ],
+      "handoff": {
+        "escalate_to_contains": "Tier 2"
+      }
+    },
+    {
+      "turn": 3,
+      "time": "17:05",
+      "note": "KB-1003: calculated by the billing system from the service address, passed through from the taxing authority, itemised on page 2.",
+      "decision": [
+        "answer"
+      ],
+      "governing_policy": {
+        "none_of": [
+          "Rule 2",
+          "Rule 3"
+        ]
+      },
+      "driving_article": [
+        "KB-1003"
+      ],
+      "reply_must_match": [
+        "page 2|service address"
+      ],
+      "handoff": {
+        "escalate_to_null": true
+      }
+    }
+  ]
+}

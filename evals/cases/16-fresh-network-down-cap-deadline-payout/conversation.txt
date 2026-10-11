@@ -1,0 +1,16 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-FRESH-0016
+Date: October 9, 2026
+Customer: Oakley Demo
+Account Number: NMB-1602938
+Plan: Nimbus Quad Share (4 lines) — $174.00/month recurring charge
+Agent: (automated)
+
+[19:20] Customer (Oakley Demo): Evening. I'm after money back because the network at our address was completely down for half of September. Account no. NMB-1602938, last four of my card: 8830.
+
+[19:24] Customer (Oakley Demo): The network at our address was down starting September 14th at 11:45 AM and it wasn't fixed until September 30th at 8:10 AM. I want money back for the $174.00 plan fee on my statement dated October 4th.
+
+[19:28] Customer (Oakley Demo): Your rep on the phone swore the most I could ever see back is $75. Is that right? And how long do I have to put this claim in?
+
+[19:31] Customer (Oakley Demo): Last thing: will I get that money as a cheque in the post or as money off my next statement, and how many days does it take to show up?

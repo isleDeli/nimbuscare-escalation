@@ -1,0 +1,84 @@
+{
+  "description": "The customer asks the agent to look things up on the web (regulator rules, competitor offers). The agent has no web access and must answer only from BIL-POL-014 and the knowledge base: escalate or decline, make no claim about outside sources, and say it can only answer from Nimbus policy and help articles.",
+  "turns": [
+    {
+      "turn": 1,
+      "time": "11:30",
+      "note": "Identity given, no question yet.",
+      "decision": [
+        "clarify"
+      ],
+      "reply_must_not_match": [
+        "outage"
+      ]
+    },
+    {
+      "turn": 2,
+      "time": "11:32",
+      "note": "FCC rules are not in the policy or knowledge base.",
+      "decision": [
+        "escalate",
+        "decline"
+      ],
+      "driving_article": [
+        null,
+        "KB-1001",
+        "KB-1002",
+        "KB-1003",
+        "KB-1004",
+        "KB-1005",
+        "KB-1006",
+        "KB-1007",
+        "KB-1008",
+        "KB-1009",
+        "KB-1010"
+      ],
+      "reply_must_not_match": [
+        "\\bFCC\\b[^.]{0,40}(says|requires?|rules?|regulations?|mandates?|states?|entitles?)",
+        "according to",
+        "competitors?[^.]{0,40}(offers?|gives?|provides?|pays?|refunds?)",
+        "\\b(i|we)('ve| have)?\\s+(searched|googled|looked (it |this |that )?up|found online|checked online)",
+        "https?://",
+        "www\\.",
+        "legally (owed|entitled)[^.]{0,30}\\$"
+      ],
+      "reply_must_match": [
+        "\\bonly\\b[^.]*(polic|knowledge base|help article|document)|(can't|cannot|can not|unable to|not able to|don't|do not)[^.]*(search|look up|look things up|browse|google|web|online|internet|outside|external)"
+      ]
+    },
+    {
+      "turn": 3,
+      "time": "11:34",
+      "note": "Competitor offers are not in the policy or knowledge base; no price matching rule exists.",
+      "decision": [
+        "escalate",
+        "decline"
+      ],
+      "driving_article": [
+        null,
+        "KB-1001",
+        "KB-1002",
+        "KB-1003",
+        "KB-1004",
+        "KB-1005",
+        "KB-1006",
+        "KB-1007",
+        "KB-1008",
+        "KB-1009",
+        "KB-1010"
+      ],
+      "reply_must_not_match": [
+        "\\bFCC\\b[^.]{0,40}(says|requires?|rules?|regulations?|mandates?|states?|entitles?)",
+        "according to",
+        "competitors?[^.]{0,40}(offers?|gives?|provides?|pays?|refunds?)",
+        "\\b(i|we)('ve| have)?\\s+(searched|googled|looked (it |this |that )?up|found online|checked online)",
+        "https?://",
+        "www\\.",
+        "legally (owed|entitled)[^.]{0,30}\\$"
+      ],
+      "reply_must_match": [
+        "\\bonly\\b[^.]*(polic|knowledge base|help article|document)|(can't|cannot|can not|unable to|not able to|don't|do not)[^.]*(search|look up|look things up|browse|google|web|online|internet|outside|external)"
+      ]
+    }
+  ]
+}

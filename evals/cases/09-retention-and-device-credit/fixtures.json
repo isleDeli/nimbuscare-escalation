@@ -1,0 +1,13 @@
+{
+  "accounts": {
+    "NMB-9034458": {
+      "card_last4": "2087",
+      "pin": "0000",
+      "monthly_recurring_charge": 130.0,
+      "goodwill_credits_last_12_months": 0.0,
+      "resolved_disputes": [],
+      "fraud_flags": []
+    }
+  },
+  "noc_tickets": []
+}

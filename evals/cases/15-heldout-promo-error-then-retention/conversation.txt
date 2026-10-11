@@ -1,0 +1,14 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-HELDOUT-0015
+Date: October 9, 2026
+Customer: Noor Demo
+Account Number: NMB-1595743
+Plan: Nimbus Solo Flex (1 line) — $54.00/month recurring charge
+Agent: (automated)
+
+[08:50] Customer (Noor Demo): Hey, something is off with my latest statement. Acct NMB-1595743, card on file ends in 1503.
+
+[08:53] Customer (Noor Demo): My promo code was never applied, so I was billed $15.00 too much for the Streaming Bundle add-on on the bill dated October 2nd. Please credit the $15.00 back.
+
+[08:57] Customer (Noor Demo): You know what, forget the $15.00. Just put the $50 retention credit on my account instead and we'll call this settled.

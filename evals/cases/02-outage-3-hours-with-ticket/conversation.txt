@@ -1,0 +1,12 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-SAMPLE-0002
+Date: October 6, 2026
+Customer: Avery Sample
+Account Number: NMB-2201877
+Plan: Nimbus Solo Unlimited (1 line) — $90.00/month recurring charge
+Agent: (automated)
+
+[10:01] Customer (Avery Sample): Hi, I'd like a credit on my bill for an outage. Account is NMB-2201877, and the card ending is 3310.
+
+[10:03] Customer (Avery Sample): My service went down on September 28th at 2 PM and was out most of the afternoon. I'm disputing the $90.00 recurring charge on the invoice dated October 1st. Can I get an outage credit for that?

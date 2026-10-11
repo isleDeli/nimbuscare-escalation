@@ -1,0 +1,15 @@
+{
+  "accounts": {
+    "NMB-7745213": {
+      "card_last4": "4471", "pin": "0000",
+      "monthly_recurring_charge": 225.00,
+      "goodwill_credits_last_12_months": 0.00,
+      "resolved_disputes": [],
+      "fraud_flags": []
+    }
+  },
+  "noc_tickets": [
+    {"id": "OUT-58823", "account": "NMB-7745213",
+     "start": "2026-09-10T06:00", "end": "2026-09-21T06:00"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "accounts": {
+    "NMB-1488326": {
+      "card_last4": "7290",
+      "pin": "0000",
+      "monthly_recurring_charge": 96.0,
+      "goodwill_credits_last_12_months": 0.0,
+      "resolved_disputes": [],
+      "fraud_flags": []
+    }
+  },
+  "noc_tickets": [
+    {
+      "id": "OUT-61877",
+      "account": "NMB-1488326",
+      "start": "2026-09-26T06:00",
+      "end": "2026-10-01T18:00"
+    }
+  ]
+}

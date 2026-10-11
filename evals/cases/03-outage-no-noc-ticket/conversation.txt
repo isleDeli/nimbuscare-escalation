@@ -1,0 +1,12 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-SAMPLE-0003
+Date: October 6, 2026
+Customer: Blake Sample
+Account Number: NMB-3308142
+Plan: Nimbus Duo Unlimited (2 lines) — $120.00/month recurring charge
+Agent: (automated)
+
+[11:15] Customer (Blake Sample): Hello, I need to dispute a charge for a period when my service was down. Account is NMB-3308142, and the card ending is 5526.
+
+[11:17] Customer (Blake Sample): Service went down on September 20th at 8 AM and wasn't back until September 24th at 8 AM. I'm disputing the $120.00 recurring charge on the invoice dated October 1st.

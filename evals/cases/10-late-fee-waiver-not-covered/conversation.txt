@@ -1,0 +1,14 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-SAMPLE-0010
+Date: October 9, 2026
+Customer: Indigo Sample
+Account Number: NMB-1045672
+Plan: Nimbus Solo Essentials (1 line) — $60.00/month recurring charge
+Agent: (automated)
+
+[17:00] Customer (Indigo Sample): Hi, I have a question about a fee on my bill. Account is NMB-1045672, and the card ending is 8421.
+
+[17:02] Customer (Indigo Sample): I was charged a $10.00 late fee on my invoice dated October 1st even though my payment was only one day late. Can you waive the late fee?
+
+[17:05] Customer (Indigo Sample): One more thing: how are the taxes and surcharges on my bill calculated, and where do I find them on the invoice?

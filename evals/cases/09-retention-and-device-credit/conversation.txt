@@ -1,0 +1,14 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-SAMPLE-0009
+Date: October 8, 2026
+Customer: Harper Sample
+Account Number: NMB-9034458
+Plan: Nimbus Duo Unlimited (2 lines) — $130.00/month recurring charge
+Agent: (automated)
+
+[10:45] Customer (Harper Sample): Hi, I have a couple of questions about credits. Account is NMB-9034458, and the card ending is 2087.
+
+[10:47] Customer (Harper Sample): I'm thinking about cancelling my service. I heard there is a $50 retention credit for customers who are about to leave. Can you add that to my account?
+
+[10:50] Customer (Harper Sample): OK. Separately, my phone was stolen last week and I'm enrolled in Device Protection. Can you apply the device replacement credit to my bill?

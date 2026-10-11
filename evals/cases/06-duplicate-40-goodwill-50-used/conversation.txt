@@ -1,0 +1,12 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-SAMPLE-0006
+Date: October 6, 2026
+Customer: Emery Sample
+Account Number: NMB-6634280
+Plan: Nimbus Solo Unlimited (1 line) — $80.00/month recurring charge
+Agent: (automated)
+
+[13:05] Customer (Emery Sample): Hi, I need to dispute a charge on my latest bill. Account is NMB-6634280, and the card ending is 1894.
+
+[13:07] Customer (Emery Sample): I was charged twice for the $40.00 International Day Pass add-on on my invoice dated October 1st. I'd like the duplicate $40.00 charge refunded.

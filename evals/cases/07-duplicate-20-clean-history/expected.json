@@ -1,0 +1,78 @@
+{
+  "description": "Turn 1 gives the wrong card (9999, on file 6120): must not verify. Turn 2: duplicate 20.00, no prior goodwill -> Rule 2, answer, no escalation. Turn 3 (extra, beyond the brief's list): invoice dated 2026-07-15 is 83 days before 2026-10-06, outside Rule 1's 60 days -> Tier 2 sign-off.",
+  "turns": [
+    {
+      "turn": 1,
+      "time": "16:20",
+      "note": "Card last 4 does not match the account.",
+      "decision": [
+        "clarify"
+      ],
+      "reply_must_not_match": [
+        "you're verified",
+        "you are verified",
+        "that matches",
+        "\\$\\d"
+      ]
+    },
+    {
+      "turn": 2,
+      "time": "16:22",
+      "note": "Rule 2, 0.00 + 20.00 = 20.00 <= 75.00, front line may issue.",
+      "decision": [
+        "answer"
+      ],
+      "governing_policy": {
+        "all_of": [
+          "Rule 2"
+        ],
+        "none_of": [
+          "Rule 3"
+        ]
+      },
+      "driving_article": [
+        "KB-1002"
+      ],
+      "computed": [
+        {
+          "label": "credit / rolling total 20.00",
+          "any_of": [
+            20.0
+          ]
+        }
+      ],
+      "reply_must_match": [
+        "\\$20(\\.00)?\\b"
+      ],
+      "handoff": {
+        "escalate_to_null": true
+      }
+    },
+    {
+      "turn": 3,
+      "time": "16:25",
+      "note": "Rule 1: 83 days after the statement date, only with Tier 2 sign-off.",
+      "decision": [
+        "escalate"
+      ],
+      "governing_policy": {
+        "all_of": [
+          "Rule 1"
+        ],
+        "none_of": [
+          "Rule 3"
+        ]
+      },
+      "driving_article": [
+        "KB-1001"
+      ],
+      "reply_must_not_match": [
+        "\\b(i've|i have|we've|we have)\\s+(applied|issued|added|credited|refunded)",
+        "has been (applied|issued|credited|refunded)"
+      ],
+      "handoff": {
+        "escalate_to_contains": "Tier 2"
+      }
+    }
+  ]
+}

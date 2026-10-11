@@ -1,0 +1,14 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-HELDOUT-0012
+Date: October 8, 2026
+Customer: Kiran Demo
+Account Number: NMB-1260417
+Plan: Nimbus Trio Plus (3 lines) — $210.00/month recurring charge
+Agent: (automated)
+
+[09:12] Customer (Kiran Demo): Morning. We had no signal at home for nearly two weeks and I was still billed in full. My account number is NMB-1260417 and the PIN on it is 5521.
+
+[09:15] Customer (Kiran Demo): The phones lost signal on September 12th at 10 PM and it only came back on September 25th at 7:30 AM. The line I'm contesting is the $210.00 monthly plan charge on the bill dated October 3rd.
+
+[09:19] Customer (Kiran Demo): A friend told me you people never give back more than $75 no matter what. Is that true here? Also, what's the cutoff for asking for this, am I too late?

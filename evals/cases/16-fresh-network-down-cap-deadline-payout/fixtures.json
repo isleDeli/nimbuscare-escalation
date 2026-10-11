@@ -1,0 +1,20 @@
+{
+  "accounts": {
+    "NMB-1602938": {
+      "card_last4": "8830",
+      "pin": "0000",
+      "monthly_recurring_charge": 174.0,
+      "goodwill_credits_last_12_months": 0.0,
+      "resolved_disputes": [],
+      "fraud_flags": []
+    }
+  },
+  "noc_tickets": [
+    {
+      "id": "OUT-60733",
+      "account": "NMB-1602938",
+      "start": "2026-09-14T11:45",
+      "end": "2026-09-30T08:10"
+    }
+  ]
+}

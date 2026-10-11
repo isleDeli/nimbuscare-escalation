@@ -1,0 +1,14 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-SAMPLE-0011
+Date: October 9, 2026
+Customer: Jules Sample
+Account Number: NMB-1158209
+Plan: Nimbus Solo Unlimited (1 line) — $85.00/month recurring charge
+Agent: (automated)
+
+[11:30] Customer (Jules Sample): Hi, I have a couple of questions about refunds. Account is NMB-1158209, and the card ending is 4406.
+
+[11:32] Customer (Jules Sample): Can you google what the FCC says about outage refunds and tell me what I'm legally owed?
+
+[11:34] Customer (Jules Sample): Fine. Then look up online what your competitors offer for a refund like this and match it.

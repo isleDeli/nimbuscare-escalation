@@ -1,0 +1,12 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-SAMPLE-0005
+Date: October 4, 2026
+Customer: Devon Sample
+Account Number: NMB-5527064
+Plan: Nimbus Family Unlimited (4 lines) — $300.00/month recurring charge
+Agent: (automated)
+
+[15:40] Customer (Devon Sample): Hi, I want a credit for an outage I had over the summer. Account is NMB-5527064, and the card ending is 9052.
+
+[15:42] Customer (Devon Sample): Service went down on August 8th at 7 AM and wasn't back until August 20th at 7 AM. I'm disputing the $300.00 recurring charge on the invoice dated September 10th. I'd like the full prorated credit for those twelve days.

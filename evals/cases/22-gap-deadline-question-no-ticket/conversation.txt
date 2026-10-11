@@ -1,0 +1,12 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-GAP-0022
+Date: October 6, 2026
+Customer: Umber Trial
+Account Number: NMB-2264803
+Plan: Nimbus Solo Unlimited (1 line) — $80.00/month recurring charge
+Agent: (automated)
+
+[16:30] Customer (Umber Trial): Hi, quick question about an outage credit. Account is NMB-2264803, and the card ending is 9945.
+
+[16:33] Customer (Umber Trial): Service went down on September 24th at 10 AM and wasn't back until September 28th at 10 AM. I'm disputing the $80.00 recurring charge on the invoice dated October 1st. What is the last day I can put in for the credit?

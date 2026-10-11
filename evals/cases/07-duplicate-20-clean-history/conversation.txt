@@ -1,0 +1,14 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-SAMPLE-0007
+Date: October 6, 2026
+Customer: Finley Sample
+Account Number: NMB-7741395
+Plan: Nimbus Solo Essentials (1 line) — $65.00/month recurring charge
+Agent: (automated)
+
+[16:20] Customer (Finley Sample): Hi, I need to dispute a charge on my latest bill. Account is NMB-7741395, and the card ending is 9999.
+
+[16:22] Customer (Finley Sample): Sorry, wrong card. Account is NMB-7741395, and the card ending is 6120. I was charged twice for the $20.00 Voicemail Plus add-on on my invoice dated October 1st and I'd like the duplicate $20.00 charge refunded.
+
+[16:25] Customer (Finley Sample): Thanks. I also want to dispute a $15.00 roaming charge on my invoice dated July 15th. Can you refund that one too?

@@ -1,0 +1,20 @@
+{
+  "accounts": {
+    "NMB-1260417": {
+      "card_last4": "3371",
+      "pin": "5521",
+      "monthly_recurring_charge": 210.0,
+      "goodwill_credits_last_12_months": 0.0,
+      "resolved_disputes": [],
+      "fraud_flags": []
+    }
+  },
+  "noc_tickets": [
+    {
+      "id": "OUT-61204",
+      "account": "NMB-1260417",
+      "start": "2026-09-12T22:00",
+      "end": "2026-09-25T07:30"
+    }
+  ]
+}

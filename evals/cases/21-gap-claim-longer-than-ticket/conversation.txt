@@ -1,0 +1,12 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-GAP-0021
+Date: October 5, 2026
+Customer: Tatum Trial
+Account Number: NMB-2153790
+Plan: Nimbus Duo Unlimited (2 lines) — $120.00/month recurring charge
+Agent: (automated)
+
+[09:05] Customer (Tatum Trial): Good morning, I need a credit for two weeks without service. Account is NMB-2153790, and the card ending is 8834.
+
+[09:08] Customer (Tatum Trial): Service went down on September 5th at 8 AM and wasn't back until September 19th at 8 AM. I'm disputing the $120.00 recurring charge on the invoice dated October 1st.

@@ -1,0 +1,12 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-GAP-0018
+Date: October 6, 2026
+Customer: Quinn Trial
+Account Number: NMB-1820461
+Plan: Nimbus Solo Unlimited (1 line) — $68.00/month recurring charge
+Agent: (automated)
+
+[10:10] Customer (Quinn Trial): Hi, there's a charge on my bill I need looked at. Account is NMB-1820461, and the card ending is 5082.
+
+[10:13] Customer (Quinn Trial): There's a $27.50 data charge on my bill dated October 2nd that comes from a SIM card I have never owned. Somebody else must be using a line under my name. I want that $27.50 taken off.

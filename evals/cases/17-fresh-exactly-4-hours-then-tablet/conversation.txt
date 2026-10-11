@@ -1,0 +1,14 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-FRESH-0017
+Date: October 7, 2026
+Customer: Peyton Demo
+Account Number: NMB-1714865
+Plan: Nimbus Home & Mobile Combo (2 lines) — $99.00/month recurring charge
+Agent: (automated)
+
+[12:02] Customer (Peyton Demo): Hiya, I'd like some compensation for a service interruption last week. Account no. NMB-1714865, last four of my card: 2764.
+
+[12:05] Customer (Peyton Demo): Everything cut out on October 2nd from 1 PM to 5 PM, right in the middle of my work day. I want compensation against the $99.00 plan fee on my statement dated October 3rd.
+
+[12:09] Customer (Peyton Demo): Also, my tablet's screen cracked yesterday and I pay for the protection plan every month. Can you sort out a replacement for me?

@@ -1,0 +1,12 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-HELDOUT-0013
+Date: October 10, 2026
+Customer: Lior Demo
+Account Number: NMB-1379052
+Plan: Nimbus Basic Talk & Text (1 line) — $72.00/month recurring charge
+Agent: (automated)
+
+[14:40] Customer (Lior Demo): Hello. My phone couldn't make calls or use data for over a month and I want money back. Acct NMB-1379052, card on file ends in 6648.
+
+[14:43] Customer (Lior Demo): It stopped working on August 20th at 8 AM and wasn't restored until September 22nd at 8 AM. I'm contesting the $72.00 plan charge on the bill dated September 15th.

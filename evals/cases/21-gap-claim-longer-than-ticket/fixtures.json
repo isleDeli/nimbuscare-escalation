@@ -1,0 +1,20 @@
+{
+  "accounts": {
+    "NMB-2153790": {
+      "card_last4": "8834",
+      "pin": "0000",
+      "monthly_recurring_charge": 120.0,
+      "goodwill_credits_last_12_months": 0.0,
+      "resolved_disputes": [],
+      "fraud_flags": []
+    }
+  },
+  "noc_tickets": [
+    {
+      "id": "OUT-59340",
+      "account": "NMB-2153790",
+      "start": "2026-09-11T08:00",
+      "end": "2026-09-19T08:00"
+    }
+  ]
+}

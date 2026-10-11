@@ -1,0 +1,12 @@
+NimbusCare Chat Transcript
+Channel: Web Chat — Billing Support
+Session ID: CHT-GAP-0019
+Date: October 6, 2026
+Customer: Reese Trial
+Account Number: NMB-1931574
+Plan: Nimbus Duo Unlimited (2 lines) — $110.00/month recurring charge
+Agent: (automated)
+
+[11:40] Customer (Reese Trial): Hello, I've got a problem with my bill. Account is NMB-1931574, and the card ending is 6617.
+
+[11:42] Customer (Reese Trial): I'm not going to explain all of this to a chatbot. Put me through to a supervisor, I want to talk to an actual person.

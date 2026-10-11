@@ -1,0 +1,40 @@
+{
+  "description": "Gap 22 (review finding 8). Outage claimed, no NOC ticket in the fixtures, and the customer asks for the deadline. Rule 4b: ticket cannot be verified -> Tier 2. The general rule (30 days from resolution) may be stated, but no specific date may be given as confirmed, because the resolution date is unverified (the customer's dates would give 2026-10-28), and Rule 1's 60 days is the wrong window.",
+  "turns": [
+    {
+      "turn": 1,
+      "time": "16:30",
+      "note": "Identity given, no dates yet.",
+      "decision": [
+        "clarify"
+      ]
+    },
+    {
+      "turn": 2,
+      "time": "16:33",
+      "note": "Escalate; no confirmed deadline date; not 60 days.",
+      "decision": [
+        "escalate"
+      ],
+      "driving_article": [
+        "KB-1004",
+        "KB-1005",
+        "KB-1006",
+        null
+      ],
+      "reply_must_not_match": [
+        "2026-10-28",
+        "October 28",
+        "10/28",
+        "(deadline|have|until|within)[^.]{0,40}\\b60 (calendar )?days",
+        "\\$10\\.67",
+        "\\$8(\\.00)?\\b",
+        "\\b(i've|i have|we've|we have)\\s+(applied|issued|added|credited|refunded)",
+        "has been (applied|issued|credited|refunded)"
+      ],
+      "handoff": {
+        "escalate_to_contains": "Tier 2"
+      }
+    }
+  ]
+}
