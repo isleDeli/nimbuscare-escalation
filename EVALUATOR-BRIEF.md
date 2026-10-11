@@ -1,6 +1,6 @@
 # EVALUATOR brief
 
-Project root: `/Users/delilahbeverly/Projects/Agents/nimbuscare-escalation`. Hackathon, hard deadline 2026-10-11 15:00. Your cases and scorer must be ready by 13:50; the scored report by 14:30.
+Project root: this repository (`nimbuscare-escalation/`). Hackathon, hard deadline 2026-10-11 15:00. Your cases and scorer must be ready by 13:50; the scored report by 14:30.
 
 ## What to build
 

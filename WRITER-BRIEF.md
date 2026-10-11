@@ -1,6 +1,6 @@
 # WRITER brief
 
-Project root: `/Users/delilahbeverly/Projects/Agents/nimbuscare-escalation`. Hackathon, hard deadline 2026-10-11 15:00. You have 15 minutes.
+Project root: this repository (`nimbuscare-escalation/`). Hackathon, hard deadline 2026-10-11 15:00. You have 15 minutes.
 
 ## What to build
 

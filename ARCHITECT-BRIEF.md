@@ -1,6 +1,6 @@
 # ARCHITECT brief
 
-Project root: `/Users/delilahbeverly/Projects/Agents/nimbuscare-escalation`. Hackathon, hard deadline 2026-10-11 15:00. Your document is due 15 minutes after you start. The human must approve it before any more code is written, so it must be short enough to read in 3 minutes.
+Project root: this repository (`nimbuscare-escalation/`). Hackathon, hard deadline 2026-10-11 15:00. Your document is due 15 minutes after you start. The human must approve it before any more code is written, so it must be short enough to read in 3 minutes.
 
 ## What to build
 

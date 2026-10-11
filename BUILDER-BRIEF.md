@@ -1,6 +1,6 @@
 # BUILDER brief
 
-Project root: `/Users/delilahbeverly/Projects/Agents/nimbuscare-escalation`. Hackathon, hard deadline 2026-10-11 15:00. Your code must run end to end by 13:50 and be finished by 14:15.
+Project root: this repository (`nimbuscare-escalation/`). Hackathon, hard deadline 2026-10-11 15:00. Your code must run end to end by 13:50 and be finished by 14:15.
 
 ## What to build
 
